@@ -1,0 +1,63 @@
+[Workspace]
+CurrentProject=WebApp.src
+Location=C:\DataFlex Projects\FutbolWebapp\IdeSrc\danil_Studio.dsk
+CreateNew=3
+[TabWindows]
+GroupCount=1
+HorizontalGroups=1
+[TabGroup0]
+GroupSize=40
+SelectedTab=4
+[Window0]
+Filename=Workspace Dashboard
+ViewType=101
+Top=21
+Left=0
+Bottom=409
+Right=882
+TabIndex=0
+TabGroup=0
+[Window1]
+Filename=C:\DataFlex Projects\FutbolWebapp\AppSrc\SelectLiga.wo
+ViewType=1
+Top=21
+Left=0
+Bottom=409
+Right=882
+CursorLine=0
+CursorColumn=0
+TabIndex=2
+TabGroup=0
+[Window2]
+Filename=C:\DataFlex Projects\FutbolWebapp\AppSrc\ZoomLiga.wo
+ViewType=1
+Top=21
+Left=0
+Bottom=409
+Right=882
+CursorLine=0
+CursorColumn=0
+TabIndex=3
+TabGroup=0
+[Window3]
+Filename=C:\DataFlex Projects\FutbolWebapp\AppSrc\WebApp.src
+ViewType=1
+Top=21
+Left=0
+Bottom=409
+Right=882
+CursorLine=150
+CursorColumn=10
+TabIndex=1
+TabGroup=0
+[Window4]
+Filename=C:\DataFlex Projects\FutbolWebapp\AppSrc\Dashboard.wo
+ViewType=1
+Top=21
+Left=0
+Bottom=409
+Right=882
+CursorLine=79
+CursorColumn=22
+TabIndex=4
+TabGroup=0

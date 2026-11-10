@@ -1,0 +1,10 @@
+# Archivos locales del entorno
+IdeSrc/
+*.loc
+
+# Archivos compilados y temporales
+*.exe
+*.dbg
+*.err
+*.prn
+*.bak
