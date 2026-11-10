@@ -8,7 +8,7 @@ Use cWebMenuGroup.pkg
 Use cWebMenuItem.pkg
 Use cWebColumnButton.pkg
 Use cWebColumn.pkg
-Use ZoomEntreador.wo
+Use ZoomEntrenador.wo
 
 Use cligaDataDictionary.dd
 Use cequipoDataDictionary.dd
