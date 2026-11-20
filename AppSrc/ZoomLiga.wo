@@ -78,7 +78,7 @@ Object oZoomLiga is a cWebView
             Set psLabel to "EquiposMax"
         End_Object
 
-        Object oVerEquiposBtn is a cWebButton
+                Object oVerEquiposBtn is a cWebButton
             Set piColumnSpan to 4
             Set piColumnIndex to 0
             Set psCaption to "Ver equipos"
@@ -88,6 +88,26 @@ Object oZoomLiga is a cWebView
             Procedure OnClick
                 Send NavigatePath
             End_Procedure
+        End_Object
+
+        Object oEquiposList is a cWebList
+            Set Server to oequipo_DD
+            Set piColumnSpan to 12
+            Set piColumnIndex to 0
+            Set piHeight to 250
+            Set pbShowHeader to True
+
+            Object oEquipoIDCol is a cWebColumn
+                Entry_Item equipo.ID
+                Set psCaption to "ID"
+                Set piWidth to 80
+            End_Object
+
+            Object oEquipoNombreCol is a cWebColumn
+                Entry_Item equipo.Nombre
+                Set psCaption to "Equipo"
+                Set piWidth to 300
+            End_Object
         End_Object
 
     End_Object
